@@ -1,16 +1,6 @@
 # Seja Bem-Vindo!
 Olá, sou **Gustavo Rosa**, sou estudante de **Física pela UFJF**. Estou aprendendo programação para implementar soluções para problemas da Física e desenvolver novos conhecimentos na área de Informação Quântica e Computação Quântica.
 
-## 🔎 Áreas de Pesquisa e Atuação
-### Relatividade Especial
-Durante o período *2021-2022* trabalhei com a relatividade especial de Einstein, desenvolvendo estudos e análises geométricas para o Espaço-Tempo de Rindler. O foco principal são para a análise de partículas aceleradas com a Relatividade Especial.
-
-### Mecânica Quântica/Informação Quântica
-Durante *2023* até atualmente, estou desenvolvendo uma solução para o Problema do Amigo de Wigner Dinâmico, um estudo de referenciais que gera emaranhamento.
-
-## 🧑‍🔬 Novos Rumos
-Com meu projeto de pesquisa na área de Informação Quântica, consigo acesso direto ao desenvolvimento de algorítmos para **computadores quânticos**, e quem sabe aplicar o desenvolvimento de redes neurais utilizando os Qubits, ao invés de implementar modelos clássicos para computadores quânticos.
-
 ## 💻 Programação
 Iniciei na programação em 2018, durante o Ensino Médio. Fiz alguns cursos de Python para desvendar esse mundo novo e fazer algumas aplicações para conteúdos estudados na época, como a clássica calculadora de equação de 2° Grau. 
 
@@ -24,10 +14,21 @@ Hoje, voltei ao básico para formalizar e estruturar meus conhecimentos para pod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
+## 🔎 Áreas de Pesquisa e Atuação ([Lattes](http://lattes.cnpq.br/0146348413076979))
+### Relatividade Especial
+Durante o período *2021-2022* trabalhei com a relatividade especial de Einstein, desenvolvendo estudos e análises geométricas para o Espaço-Tempo de Rindler. O foco principal são para a análise de partículas aceleradas com a Relatividade Especial.
+
+### Mecânica Quântica/Informação Quântica
+Durante *2023* até atualmente, estou desenvolvendo uma solução para o Problema do Amigo de Wigner Dinâmico, um estudo de referenciais que gera emaranhamento.
+
+## 🧑‍🔬 Novos Rumos - Computação Quântica
+Com meu projeto de pesquisa na área de Informação Quântica, consigo acesso direto ao desenvolvimento de algorítmos para **computadores quânticos**, e quem sabe aplicar o desenvolvimento de redes neurais utilizando os Qubits, ao invés de implementar modelos clássicos para computadores quânticos.
+
+
 ###
 
 <div align="left">
-  <a href="ggustavoorosa@gmail.com" target="_blank">
+  <a href="mailto:ggustavoorosa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/gustavo.orosa" target="_blank">
@@ -38,10 +39,3 @@ Hoje, voltei ao básico para formalizar e estruturar meus conhecimentos para pod
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/TheAcoff/TheAcoff/output/snake.svg" alt="Snake animation" />
-
-###
-
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=theacoff)](https://github.com/anuraghazra/github-readme-stats)
