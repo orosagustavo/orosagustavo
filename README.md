@@ -31,10 +31,10 @@ Hoje, voltei ao básico para formalizar e estruturar meus conhecimentos para pod
 Durante o período *2021-2022* trabalhei com a relatividade especial de Einstein, desenvolvendo estudos e análises geométricas para o Espaço-Tempo de Rindler. O foco principal são para a análise de partículas aceleradas com a Relatividade Especial.
 
 ### Mecânica Quântica/Informação Quântica
-Durante *2023* até atualmente, estou desenvolvendo uma solução para o Problema do Amigo de Wigner Dinâmico, um estudo de referenciais que gera emaranhamento.
+Durante *2023-2024/1*, trabalhei com Informação Quântica em busca de uma solução para o Problema do amigo de Wigner dinâmico, o que me levou ao acesso direto ao desenvolvimento de algorítmos para **computadores quânticos**.
 
-## 🧑‍🔬 Novos Rumos - Computação Quântica
-Com meu projeto de pesquisa na área de Informação Quântica, consigo acesso direto ao desenvolvimento de algorítmos para **computadores quânticos**, e quem sabe aplicar o desenvolvimento de redes neurais utilizando os Qubits, ao invés de implementar modelos clássicos para computadores quânticos.
+## 🧑‍🔬 Novos Rumos - Física Aplicada
+Ao finalizar com a informação quântica, migrei para o Laboratório de Física Aplicada para contribuir nos modelos de simulação, além de projetos com Arduinos. Além da simulação, busco usar os dados gerados para implementar modelos de Machine Learning, facilitando a análise dos dados.
 
 
 ###
