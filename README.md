@@ -23,7 +23,10 @@ Hoje, voltei ao básico para formalizar e estruturar meus conhecimentos para pod
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/)podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  
 </div>
 
 ## 🔎 Áreas de Pesquisa e Atuação ([Lattes](http://lattes.cnpq.br/0146348413076979))
