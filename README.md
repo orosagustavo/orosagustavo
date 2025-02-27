@@ -1,13 +1,13 @@
-# Seja Bem-Vindo!
-Olá, sou **Gustavo Rosa**, sou estudante de **Física pela UFJF**. Estou aprendendo programação para implementar soluções para problemas da Física e desenvolver novos conhecimentos na área de Informação Quântica e Computação Quântica.
+# Welcome
+Hello, I'm **Gustavo Rosa**, a Physics student at **Federal University of Juiz de Fora - UFJF** in Brazil. I'm learning programming to implement solutions for physics-related problems and to develop new knowledge in Quantum Information and Quantum Computing.
 
-## 💻 Programação
-Iniciei na programação em 2018, durante o Ensino Médio. Fiz alguns cursos de Python para desvendar esse mundo novo e fazer algumas aplicações para conteúdos estudados na época, como a clássica calculadora de equação de 2° Grau. 
+## Skills
+Areas of knowledge that I'm working on:
+- Biophysics
+- Fluid Mechanics
+- Oil and derivatives
 
-Ao entrar no curso de Física em 2020, minha vontade de aprender aumentou, pois os desafios também aumentaram. Com isso, a vontade de fazer simulações e gerar gráficos para as situações me bateu na mente, e aí retomei meu estudo de forma desorganizada. Em 2023, com o boom das Inteligências Artificiais, tive curiosidade de estudar o modelo matemático por trás e aprender como funciona.
-
-Hoje, voltei ao básico para formalizar e estruturar meus conhecimentos para poder desenvolver novos projetos e conhecer novos caminhos.
-
+Programming skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -27,22 +27,34 @@ Hoje, voltei ao básico para formalizar e estruturar meus conhecimentos para pod
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fortran/fortran-original.svg" height="40" alt="fortran logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fortran/fortran-original.svg" height="40" alt="fortran logo" />  
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
   
 </div>
 
-## 🔎 Áreas de Pesquisa e Atuação ([Lattes](http://lattes.cnpq.br/0146348413076979))
-### Relatividade Especial
-Durante o período *2021-2022* trabalhei com a relatividade especial de Einstein, desenvolvendo estudos e análises geométricas para o Espaço-Tempo de Rindler. O foco principal são para a análise de partículas aceleradas com a Relatividade Especial.
+---
+## 💻 My Story
+I started programming in 2018 during high school. I took some Python courses to explore this new world and develop applications related to the subjects I was studying at the time, such as the classic quadratic equation calculator.
 
-### Mecânica Quântica/Informação Quântica
-Durante *2023-2024/1*, trabalhei com Informação Quântica em busca de uma solução para o Problema do amigo de Wigner dinâmico, o que me levou ao acesso direto ao desenvolvimento de algorítmos para **computadores quânticos**.
+When I entered the Physics program in 2020, my desire to learn grew, as the challenges also became greater. This sparked my interest in simulations and data visualization, leading me to resume my programming studies in an unstructured way. In 2023, with the rise of Artificial Intelligence, I became curious about the mathematical models behind it and wanted to understand how they work.
 
-## 🧑‍🔬 Novos Rumos - Física Aplicada
-Ao finalizar com a informação quântica, migrei para o Laboratório de Física Aplicada para contribuir nos modelos de simulação, além de projetos com Arduinos. Além da simulação, busco usar os dados gerados para implementar modelos de Machine Learning, facilitando a análise dos dados.
+Today, I have returned to the basics to formalize and structure my knowledge, aiming to develop new projects and explore new possibilities.
 
+---
+## 🔎 Past Research and Work Areas ([Lattes](http://lattes.cnpq.br/0146348413076979))
+### Special Relativity
+From **2021 to 2022**, I worked with Einstein's Special Relativity, developing studies and geometric analyses of Rindler spacetime. My main focus was the analysis of accelerated particles within the framework of Special Relativity.
 
-###
+### Quantum Mechanics/Quantum Information
+During **2023-2024/1**, I worked with Quantum Information, seeking solutions to the Dynamic Wigner's Friend Problem, which led me to work directly on developing algorithms for **quantum computers**.
+
+---
+## 🧑‍🔬 New Directions - Applied Physics
+After concluding my work in Quantum Information, I transitioned to the Applied Physics Laboratory, where I contribute to simulation models, calculating complex Physics problems and developing visual interfaces to enhance comprehension. Besides simulations, I am also exploring ways to apply Machine Learning models to analyze the generated data more efficiently.
+
+---
+### Contact
 
 <div align="left">
   <a href="mailto:ggustavoorosa@gmail.com" target="_blank">
