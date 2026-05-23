@@ -1,5 +1,5 @@
 # Welcome
-Hello, I'm **Gustavo Rosa**, a Physics student at **Federal University of Juiz de Fora - UFJF** in Brazil. I'm learning programming to implement solutions for physics-related problems and to develop new knowledge in Quantum Information and Quantum Computing.
+Hello, I'm **Gustavo Rosa**, a Physics Master student at **Federal University of Juiz de Fora - UFJF** in Brazil. I'm programming to implement solutions for physics-related problems and to develop new knowledge in Quantum Information and Quantum Computing.
 
 ## Skills
 Areas of knowledge that I'm working on:
@@ -39,7 +39,7 @@ I started programming in 2018 during high school. I took some Python courses to 
 
 When I entered the Physics program in 2020, my desire to learn grew, as the challenges also became greater. This sparked my interest in simulations and data visualization, leading me to resume my programming studies in an unstructured way. In 2023, with the rise of Artificial Intelligence, I became curious about the mathematical models behind it and wanted to understand how they work.
 
-Today, I have returned to the basics to formalize and structure my knowledge, aiming to develop new projects and explore new possibilities.
+In 2024, I had return to the basics to formalize and structure my knowledge, aiming to develop new projects and explore new possibilities.
 
 ---
 ## 🔎 Past Research and Work Areas ([Lattes](http://lattes.cnpq.br/0146348413076979))
@@ -51,7 +51,7 @@ During **2023-2024/1**, I worked with Quantum Information, seeking solutions to 
 
 ---
 ## 🧑‍🔬 New Directions - Applied Physics
-After concluding my work in Quantum Information, I transitioned to the Applied Physics Laboratory, where I contribute to simulation models, calculating complex Physics problems and developing visual interfaces to enhance comprehension. Besides simulations, I am also exploring ways to apply Machine Learning models to analyze the generated data more efficiently.
+After concluding my work in Quantum Information, I transitioned to the Innovation Laboratory in Applied Physics (LIFA), where I contribute to simulation models, calculating complex Physics problems and developing visual interfaces to enhance comprehension. Besides simulations, I am also exploring ways to apply Machine Learning models to analyze the generated data more efficiently, especially Neural Networks and it's architechtures.
 
 ---
 ### Contact
